@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "bo8ZW4t+sCoKd9QWjpy4/H2mKxqPIbVxqvxxbvXQ7zs=",
+  "Source": "MnCloudService",
+  "BasePath": "_content/MnCloudService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
